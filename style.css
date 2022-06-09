@@ -1,0 +1,103 @@
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(247, 247, 247);
+  color: rgb(111, 108, 108);
+  padding: 10px; 
+}
+
+body {
+  width: 85%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  background-color: silver;
+}
+
+.c1 {
+  background-color: #0000e6;
+  padding: 6px;
+  color: white;
+}
+
+.c2 {
+  background-color: #0000ff;
+  padding: 6px;
+  color: white;
+}
+
+.c3{
+  background-color: #3333ff;
+  padding: 6px;
+  color: white;
+}
+
+.c4{
+  background-color: #4d4dff;
+  padding: 6px;
+  color: white;
+}
+
+.c5{
+  background-color: #6666ff;
+  padding: 6px;
+  color: white;
+}
+
+.c6{
+  background-color: #8080ff;
+  padding: 6px;
+  color: white;
+}
+
+.c7{
+  background-color: #9999ff;
+  padding: 6px;
+  color: white;
+}
+
+.c8{
+  background-color: #00cc00;
+  padding: 6px;
+  color: white;
+}
+
+.c9{
+  background-color: #ff99aa;
+  padding: 6px;
+  color: white;
+}
+
+.c10{
+  background-color: #ff8095;
+  padding: 6px;
+  color: white;
+}
+
+.c11{
+  background-color: #ff6680;
+  padding: 6px;
+  color: white;
+}
+
+.c12{
+  background-color: #ff4d6a;
+  padding: 6px;
+  color: white;
+}
+
+.c13{
+  background-color: #ff3355;
+  padding: 6px;
+  color: white;
+}
+
+.c14{
+  background-color:  #ff1a40;
+  padding: 6px;
+  color: white;
+}
+
+.c15{
+  background-color: #cc0022; 
+  padding: 6px;
+  color: white;
+}
